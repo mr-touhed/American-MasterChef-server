@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Healthy",
+        "img":"https://i.ibb.co/ZL8J3JW/healthcare.png",
+        "details": "Chefs prefer healthy food for various reasons such as nutritional value, flavor, health benefits, sustainability, and customer demand. They prioritize fresh, whole ingredients to create delicious and healthy dishes that promote health and reduce the risk of chronic diseases. Catering to the growing demand for healthy food is also beneficial for their business."
+    },
+    {
+        "id": 2,
+        "name": "Local",
+        "img": "https://i.ibb.co/LNdSygs/place.png",
+        "details": "chefs  local ingredients for their freshness, seasonality, sustainability, community-building, and unique flavors. Using local ingredients also supports local farmers and promotes a more transparent and ethical food system."
+    },
+    {
+        "id": 3,
+        "name": "Affordable",
+        "img": "https://i.ibb.co/BtNjP4G/wallet.png",
+        "details": "Affordable ingredients are more widely available and accessible, making them a practical choice for chefs who need to create meals that are both flavorful and budget-friendly."
+    },
+    {
+        "id": 4,
+        "name": "Exclusive",
+        "img": "https://i.ibb.co/gzCKbWy/premium-quality.png",
+        "details": "Working with exclusive ingredients can challenge chefs to think creatively and come up with new and innovative dishes. It allows them to experiment with different flavor combinations and techniques."
+    }
+]

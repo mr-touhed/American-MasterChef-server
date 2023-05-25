@@ -1,0 +1,453 @@
+{
+  "chefs": [
+    {
+      "id": 1,
+      "name": "Gordon Ramsay",
+      "experience": "30 years",
+      "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2018%2F09%2Fgordon-ramsay-hells-kitchen-02-2000.jpg&q=60",
+      "numRecipes": 150,
+      "likes": 1000000,
+      "description": "Gordon Ramsay is a British chef, restaurateur, writer, and television personality. He has been awarded 16 Michelin stars in total and currently holds 7.",
+      "recipes": [
+        {
+          "name": "Beef Wellington",
+          "ingredients": [
+            "beef tenderloin",
+            "puff pastry",
+            "prosciutto",
+            "mushrooms",
+            "dijon mustard"
+          ],
+          "cookingMethod": [
+            "Preheat oven to 200°C.",
+            "Season the beef with salt and pepper.",
+            "Heat a pan over high heat and sear the beef until browned on all sides.",
+            "Remove the beef from the pan and let it rest.",
+            "In the same pan, sauté the mushrooms until browned and tender.",
+            "Roll out the puff pastry and place the prosciutto on top.",
+            "Spread the mushrooms on top of the prosciutto.",
+            "Brush the beef with dijon mustard and place it on top of the mushrooms.",
+            "Wrap the puff pastry around the beef and brush with an egg wash.",
+            "Bake for 35-40 minutes, until the pastry is golden brown.",
+            "Let the beef rest for 10 minutes before slicing and serving."
+          ]
+        },
+        {
+          "name": "Scrambled Eggs",
+          "ingredients": [
+            "eggs",
+            "butter",
+            "salt",
+            "pepper",
+            "chives"
+          ],
+          "cookingMethod": [
+            "Whisk the eggs together in a bowl and season with salt and pepper.",
+            "Melt the butter in a non-stick pan over medium heat.",
+            "Add the eggs to the pan and stir continuously with a rubber spatula.",
+            "Remove the pan from the heat when the eggs are still slightly runny.",
+            "The residual heat will continue to cook the eggs.",
+            "Garnish with chopped chives and serve immediately."
+          ]
+        },
+        {
+          "name": "Beef Burger",
+          "ingredients": [
+            "ground beef",
+            "salt",
+            "pepper",
+            "brioche buns",
+            "cheddar cheese"
+          ],
+          "cookingMethod": [
+            "Divide the ground beef into 4 equal portions and shape them into patties.",
+            "Season the patties with salt and pepper.",
+            "Grill the patties over high heat until cooked to your desired doneness.",
+            "Toast the brioche buns on the grill.",
+            "Top each patty with a slice of cheddar cheese and let it melt.",
+            "Assemble the burgers and serve with your favorite toppings."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bobby Flay",
+      "experience": "35 years",
+      "numRecipes": 200,
+      "img": "https://i0.wp.com/thechefsconnection.com/wp-content/uploads/2014/06/bobby-flay_profile_2017.jpg",
+      "likes": 750000,
+      "description": "Bobby Flay is an American celebrity chef, restaurateur, and reality television personality. He is known for his innovative take on Southwestern cuisine.",
+      "recipes": [
+        {
+          "name": "Grilled Steak",
+          "ingredients": [
+            "ribeye steak",
+            "olive oil",
+            "salt",
+            "pepper",
+            "garlic"
+          ],
+      "cookingMethod": [
+        "Rub the steak with olive oil and season with salt and pepper.",
+        "Grill the steak over high heat until cooked to your desired doneness.",
+        "Let the steak rest for 5-10 minutes before slicing and serving.",
+        "Rub a clove of garlic over the steak for extra flavor."
+      ]
+    },
+    {
+      "name": "Guacamole",
+      "ingredients": [
+        "avocado",
+        "red onion",
+        "jalapeno",
+        "lime juice",
+        "cilantro"
+      ],
+      "cookingMethod": [
+        "Peel and mash the avocado in a bowl.",
+        "Finely chop the red onion and jalapeno and add them to the bowl.",
+        "Add lime juice and salt to taste.",
+        "Stir in chopped cilantro.",
+        "Cover the guacamole with plastic wrap and chill in the fridge for at least 30 minutes before serving."
+      ]
+    },
+    {
+      "name": "Grilled Chicken",
+      "ingredients": [
+        "chicken breasts",
+        "olive oil",
+        "salt",
+        "pepper",
+        "lemon"
+      ],
+      "cookingMethod": [
+        "Rub the chicken with olive oil and season with salt and pepper.",
+        "Grill the chicken over medium heat until cooked through.",
+        "Squeeze fresh lemon juice over the chicken before serving."
+      ]
+    }
+  ]
+},
+{
+  "id": 3,
+  "name": "Ina Garten",
+  "experience": "50 years",
+  "img": "https://www.myjewishlearning.com/wp-content/uploads/2020/11/Photo-credit_-Jean-Pierre-UysED.jpg",
+  "numRecipes": 100,
+  "likes": 500000,
+  "description": "Ina Garten is an American author, chef, and television personality. She is best known for her Barefoot Contessa cookbooks and television show.",
+  "recipes": [
+    {
+      "name": "Roast Chicken",
+      "ingredients": [
+        "whole chicken",
+        "butter",
+        "lemon",
+        "garlic",
+        "thyme"
+      ],
+      "cookingMethod": [
+        "Preheat oven to 425°F.",
+        "Season the chicken with salt and pepper.",
+        "Stuff the cavity with lemon, garlic, and thyme.",
+        "Rub the chicken with softened butter.",
+        "Roast the chicken for 1 1/2 to 2 hours, until the juices run clear.",
+        "Let the chicken rest for 10 minutes before carving."
+      ]
+    },
+    {
+      "name": "Pesto",
+      "ingredients": [
+        "basil leaves",
+        "garlic",
+        "pine nuts",
+        "parmesan cheese",
+        "olive oil"
+      ],
+      "cookingMethod": [
+        "Combine the basil, garlic, pine nuts, and parmesan cheese in a food processor.",
+        "Pulse until finely chopped.",
+        "With the food processor running, slowly pour in the olive oil until the pesto is smooth.",
+        "Season with salt and pepper to taste."
+      ]
+    },
+    {
+      "name": "Raspberry Crumble Bars",
+      "ingredients": [
+        "all-purpose flour",
+        "granulated sugar",
+        "butter",
+        "raspberry jam",
+        "salt"
+      ],
+      "cookingMethod": [
+        "Preheat oven to 350°F.",
+        "Combine the flour, sugar, and salt in a large bowl.",
+        "Cut in the butter until the mixture resembles coarse crumbs.",
+        "Press two-thirds of the mixture into the bottom of a 9x13-inch baking dish.",
+        "Spread raspberry jam over the crust.",
+        "Sprinkle the remaining crumble mixture over the top.",
+"Bake for 45-50 minutes, until the top is golden brown.",
+"Let cool before cutting into bars."
+]
+}
+]
+},
+{
+  "id": 4,
+  "name": "Martha Stewart",
+  "img" : "https://www.homepagenews.com/wp-content/uploads/2022/02/martha-stewart-1.jpg",
+  "experience": "40 years",
+  "numRecipes": 250,
+  "likes": 900000,
+  "description": "Martha Stewart is an American businesswoman, writer, and television personality. She is known for her homemaking skills and has written numerous books on cooking, decorating, and entertaining.",
+  "recipes": [
+    {
+      "name": "Lobster Newberg",
+      "ingredients": [
+        "lobster tails",
+        "butter",
+        "shallots",
+        "white wine",
+        "heavy cream",
+        "egg yolks",
+        "paprika",
+        "salt",
+        "pepper"
+      ],
+      "cookingMethod": [
+        "Poach the lobster tails in salted water for 8-10 minutes, until cooked through.",
+        "Remove the lobster meat from the shells and cut into bite-sized pieces.",
+        "Melt butter in a skillet over medium heat.",
+        "Add diced shallots and cook until softened.",
+        "Add white wine and reduce by half.",
+        "Stir in heavy cream and bring to a simmer.",
+        "Whisk egg yolks in a bowl.",
+        "Slowly pour the hot cream mixture into the egg yolks, whisking constantly.",
+        "Return the mixture to the skillet and cook over low heat until thickened.",
+        "Add the lobster meat and heat through.",
+        "Sprinkle with paprika, salt, and pepper before serving."
+      ]
+    },
+    {
+      "name": "Classic Meatloaf",
+      "ingredients": [
+        "ground beef",
+        "breadcrumbs",
+        "onion",
+        "milk",
+        "egg",
+        "ketchup",
+        "Worcestershire sauce",
+        "salt",
+        "pepper"
+      ],
+      "cookingMethod": [
+        "Preheat oven to 350°F.",
+        "Mix together ground beef, breadcrumbs, diced onion, milk, beaten egg, ketchup, Worcestershire sauce, salt, and pepper.",
+        "Shape the mixture into a loaf and place in a baking dish.",
+        "Bake for 50-60 minutes, until cooked through.",
+        "Let rest for 5-10 minutes before slicing."
+      ]
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "ingredients": [
+        "flour",
+        "baking soda",
+        "salt",
+        "butter",
+        "white sugar",
+        "brown sugar",
+        "vanilla extract",
+        "eggs",
+        "chocolate chips"
+      ],
+      "cookingMethod": [
+        "Preheat oven to 375°F.",
+        "Combine flour, baking soda, and salt in a bowl.",
+        "Beat butter, white sugar, brown sugar, and vanilla extract together until creamy.",
+        "Beat in eggs, one at a time.",
+        "Gradually add the flour mixture, stirring until well combined.",
+        "Stir in chocolate chips.",
+        "Drop spoonfuls of dough onto a baking sheet.",
+        "Bake for 8-10 minutes, until lightly browned.",
+        "Let cool on the baking sheet for 2 minutes before removing to a wire rack."
+      ]
+    }
+  ]
+},
+{
+  "id": 5,
+  "name": "Wolfgang Puck",
+  "experience": "50 years",
+  "img": "https://www.cheatsheet.com/wp-content/uploads/2019/12/Wolfgang-Puck.jpg",
+  "numRecipes": 400,
+  "likes": 1200000,
+  "description": "Wolfgang Puck is an Austrian-American chef and restaurateur. He is known for his innovative approach to cooking and has won multiple awards for his cuisine.",
+  "recipes": [
+    {
+      "name": "Chicken Pot Pie",
+      "ingredients": [
+        "butter",
+        "onion",
+        "carrots",
+        "celery",
+        "flour",
+        "chicken stock",
+        "milk",
+        "cooked chicken",
+        "frozen peas",
+        "salt",
+        "pepper",
+        "pie crust"
+      ],
+      "cookingMethod": [
+        "Preheat oven to 400°F.",
+        "Melt butter in a saucepan over medium heat.",
+        "Add diced onion, carrots, and celery and cook until softened.",
+        "Stir in flour and cook for 1-2 minutes.",
+        "Gradually whisk in chicken stock and milk, stirring constantly.",
+        "Add cooked chicken and frozen peas.",
+        "Season with salt and pepper.",
+        "Transfer mixture to a pie dish and cover with pie crust.",
+        "Bake for 30-35 minutes or until golden brown."
+      ]
+    },
+    {
+      "name": "Roast Beef Tenderloin",
+      "ingredients": [
+        "beef tenderloin",
+        "olive oil",
+        "salt",
+        "pepper",
+        "garlic",
+        "thyme",
+        "rosemary"
+      ],
+      "cookingMethod": [
+        "Preheat oven to 425°F.",
+        "Rub beef tenderloin with olive oil and season with salt and pepper.",
+        "Place beef tenderloin on a roasting pan.",
+        "Mix garlic, thyme, and rosemary in a bowl and spread over the top of the beef tenderloin.",
+        "Roast beef tenderloin in the oven for 20-25 minutes for medium-rare, or until desired doneness is achieved.",
+        "Let the beef tenderloin rest for 10 minutes before slicing and serving."
+      ]
+    },
+    {
+      "name": "Peach and Blueberry Crisp",
+      "ingredients": [
+        "peaches",
+        "blueberries",
+        "lemon juice",
+        "flour",
+        "brown sugar",
+        "rolled oats",
+        "butter",
+        "cinnamon",
+        "nutmeg"
+      ],
+      "cookingMethod": [
+        "Preheat oven to 375°F.",
+        "Peel and slice peaches and place in a large bowl.",
+        "Add blueberries and lemon juice and toss to combine.",
+        "In a separate bowl, mix flour, brown sugar, rolled oats, butter, cinnamon, and nutmeg.",
+        "Pour the mixture over the peach and blueberry mixture and toss to coat.",
+        "Transfer the mixture to a baking dish and bake for 40-45 minutes or until golden brown."
+      ]
+    }
+  ]
+},
+{
+  "id": 6,
+  "name": "Emeril Lagasse",
+  "experience": "40 years",
+  "img": "https://cdn.vox-cdn.com/thumbor/J9To8egn7KpoabsNMp-grPi8ifQ=/0x0:1000x600/1200x800/filters:focal(420x220:580x380)/cdn.vox-cdn.com/uploads/chorus_image/image/62852552/Emeril_Lagasse.0.0.jpg",
+  "numRecipes": 300,
+  "likes": 900000,
+  "description": "Emeril Lagasse is an American celebrity chef, restaurateur, television personality, and cookbook author. He is known for his Cajun and Creole cuisine and his catchphrase 'BAM!'",
+  "recipes": [
+    {
+      "name": "Shrimp and Grits",
+      "ingredients": [
+        "grits",
+        "water",
+        "butter",
+        "heavy cream",
+        "cheddar cheese",
+        "bacon",
+        "onion",
+        "green bell pepper",
+        "garlic",
+        "diced tomatoes",
+        "Worcestershire sauce",
+        "hot sauce",
+        "fresh lemon juice",
+        "shrimp",
+        "salt",
+        "black pepper",
+        "green onions"
+      ],
+      "cookingMethod": [
+        "In a large pot, bring water to a boil and stir in grits.",
+        "Reduce heat to low and stir occasionally until thickened, about 20-25 minutes.",
+        "Stir in butter, heavy cream, and cheddar cheese.",
+        "Cook bacon in a skillet over medium heat until crisp.",
+        "Remove bacon and add diced onion, green bell pepper, and garlic to the bacon fat in the skillet.",
+        "Cook until softened, about 5-7 minutes.",
+        "Add diced tomatoes, Worcestershire sauce, hot sauce, and fresh lemon juice.",
+        "Add shrimp and cook until pink and cooked through, about 3-4 minutes.",
+        "Season with salt and black pepper.",
+        "Serve shrimp mixture over grits and top with crumbled bacon and sliced green onions."
+      ]
+    },
+    {
+      "name": "Cajun Chicken Alfredo",
+      "ingredients": [
+        "fettuccine",
+        "butter",
+        "boneless chicken breasts",
+        "Cajun seasoning",
+        "garlic",
+        "heavy cream",
+        "Parmesan cheese",
+        "salt",
+        "black pepper"
+      ],
+      "cookingMethod": [
+        "Cook fettuccine according to package instructions.",
+        "Season chicken breasts with Cajun seasoning.",
+        "Melt butter in a skillet over medium heat and add chicken breasts.",
+        "Cook until browned and cooked through, about 5-6 minutes per side.",
+        "Remove chicken from skillet and add minced garlic.",
+        "Cook until fragrant, about 1-2 minutes.",
+        "Add heavy cream and Parmesan cheese and stir until the cheese is melted and the sauce is smooth.",
+        "Season with salt and black pepper.",
+        "Serve chicken and sauce over cooked fettuccine."
+      ]
+    },
+    {
+      "name": "Bananas Foster",
+      "ingredients": [
+        "unsalted butter",
+        "brown sugar",
+        "ground cinnamon",
+        "bananas",
+        "dark rum",
+        "banana liqueur",
+        "vanilla ice cream"
+      ],
+      "cookingMethod": [
+        "Melt butter in a skillet over medium heat.",
+        "Add brown sugar and ground cinnamon and stir until sugar is dissolved.",
+        "Add sliced bananas and cook until softened and caramelized, about 3-4 minutes.",
+        "Remove skillet from heat and add dark rum and banana liqueur.",
+        "Return skillet to heat and carefully ignite the rum with a long lighter or match.",
+        "Let flames die down and shake the skillet gently until flames are extinguished.","Serve bananas and sauce over vanilla ice cream."
+  ]
+}
+]
+}
+]
+}
